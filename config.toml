@@ -1,0 +1,10 @@
+baseURL = "https://springboot.kr/"
+title = "SPRINGBOOT.KR"
+theme = "github-style"
+
+[params]
+  author = "JINWOO"
+  description = "Hello XD"
+  github = "nice7677"
+  email = "nice7677@naver.com"
+  utterances = "example/example.github.io"
