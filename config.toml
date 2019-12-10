@@ -4,7 +4,8 @@ theme = "github-style"
 
 [params]
   author = "JINWOO"
-  description = "Hello XD"
+  description = ""
   github = "nice7677"
   email = "nice7677@naver.com"
-  utterances = "example/example.github.io"
+  utterances = "nice7677/nice7677.github.io"
+  location = "Seoul"
